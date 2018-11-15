@@ -1,0 +1,352 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style5 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 4px;
+    margin-top: 11px;
+    width: 365px;
+    height: 352px;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 37px;
+    margin-top: 23px;
+    width: 187px;
+    height: 88px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 73px;
+    margin-top: 15px;
+    width: 263px;
+    height: 30px;
+    align-items: center
+  }
+  .style8 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: .6875em;
+    margin-left: 0;
+    height: 9px
+  }
+  .style12 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 176px;
+    width: 56px;
+    height: 100%
+  }
+  .style9 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: .6875em;
+    margin-left: 77px;
+    margin-top: 35px;
+    height: 2px
+  }
+  .style13 {
+    margin-left: 272px;
+    margin-top: 5px;
+    width: 43px;
+    height: 39px
+  }
+  .style10,
+  .style11 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: .6875em;
+    margin-left: 68px;
+    margin-top: 5px;
+    height: 1px
+  }
+  .style11 {
+    margin-left: 70px;
+    margin-top: 56px;
+    height: 3px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style5 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 8px;
+    margin-top: 23px;
+    width: 748px;
+    height: 721px;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 76px;
+    margin-top: 47px;
+    width: 383px;
+    height: 180px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 31px;
+    width: 539px;
+    height: 61px;
+    align-items: center
+  }
+  .style8 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.408em;
+    margin-left: 0;
+    height: 18px
+  }
+  .style12 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 360px;
+    width: 115px;
+    height: 100%
+  }
+  .style9 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.408em;
+    margin-left: 158px;
+    margin-top: 72px;
+    height: 4px
+  }
+  .style13 {
+    margin-left: 557px;
+    margin-top: 10px;
+    width: 88px;
+    height: 80px
+  }
+  .style10,
+  .style11 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.408em;
+    margin-left: 139px;
+    margin-top: 10px;
+    height: 2px
+  }
+  .style11 {
+    margin-left: 143px;
+    margin-top: 115px;
+    height: 6px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style5 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 27px;
+    width: 895px;
+    height: 864px;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 91px;
+    margin-top: 56px;
+    width: 459px;
+    height: 216px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 179px;
+    margin-top: 37px;
+    width: 645px;
+    height: 74px;
+    align-items: center
+  }
+  .style8 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.6866666666666665em;
+    margin-left: 0;
+    height: 22px
+  }
+  .style12 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 432px;
+    width: 137px;
+    height: 100%
+  }
+  .style9 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.6866666666666665em;
+    margin-left: 189px;
+    margin-top: 86px;
+    height: 5px
+  }
+  .style13 {
+    margin-left: 667px;
+    margin-top: 12px;
+    width: 105px;
+    height: 96px
+  }
+  .style10,
+  .style11 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.6866666666666665em;
+    margin-left: 167px;
+    margin-top: 12px;
+    height: 2px
+  }
+  .style11 {
+    margin-left: 172px;
+    margin-top: 137px;
+    height: 7px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style5 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 13px;
+    margin-top: 35px;
+    width: 1168px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 118px;
+    margin-top: 74px;
+    width: 598px;
+    height: 282px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 234px;
+    margin-top: 48px;
+    width: 842px;
+    height: 96px;
+    align-items: center
+  }
+  .style8 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.2em;
+    margin-left: 0;
+    height: 29px
+  }
+  .style12 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 563px;
+    width: 179px;
+    height: 100%
+  }
+  .style9 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.2em;
+    margin-left: 246px;
+    margin-top: 112px;
+    height: 6px
+  }
+  .style13 {
+    margin-left: 870px;
+    margin-top: 16px;
+    width: 138px;
+    height: 125px
+  }
+  .style10,
+  .style11 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.2em;
+    margin-left: 218px;
+    margin-top: 16px;
+    height: 3px
+  }
+  .style11 {
+    margin-left: 224px;
+    margin-top: 179px;
+    height: 10px
+  }
+}
